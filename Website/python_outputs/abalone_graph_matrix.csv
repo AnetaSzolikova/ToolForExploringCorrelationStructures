@@ -1,0 +1,7 @@
+,length,diameter,whole_weight,shucked_weight,viscera_weight,shell_weight
+length,0.0,0.987,0.925,0.898,0.903,0.898
+diameter,0.987,0.0,0.925,0.893,0.9,0.905
+whole_weight,0.925,0.925,0.0,0.969,0.966,0.955
+shucked_weight,0.898,0.893,0.969,0.0,0.932,0.883
+viscera_weight,0.903,0.9,0.966,0.932,0.0,0.908
+shell_weight,0.898,0.905,0.955,0.883,0.908,0.0

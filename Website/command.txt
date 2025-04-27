@@ -1,0 +1,3 @@
+Príkaz pre spustenie projektu na localhost:8000, v ktorom je možné vytvárať grafy
+
+command: py -m http.server 8000 
